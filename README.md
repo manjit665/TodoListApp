@@ -5,7 +5,7 @@ Users can register, login securely, and manage their personal todos.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - User Registration & Login
 - JWT Authentication & Authorization
@@ -20,7 +20,7 @@ Users can register, login securely, and manage their personal todos.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - React.js
